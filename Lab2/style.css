@@ -1,0 +1,35 @@
+body {
+    margin: auto;
+    display: inline;
+    justify-content: center;
+}
+
+div, p {
+    background: rgb(209, 209, 209);
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+div {
+    padding-top: 15px;
+    font-size: 36px;
+    color: brown;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+}
+
+p {
+    color: orange;
+    margin-top: 0;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    padding-bottom: 15px;
+}
+
+a {
+    color: red;
+}
